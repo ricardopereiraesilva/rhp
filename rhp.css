@@ -1,6 +1,6 @@
 /* Configurações gerais */
 html {
-  font-size: 17px;
+  font-size: 18px;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
@@ -17,12 +17,12 @@ body {
 
 /* Moldura central */
 .main-container {
-  width: 80%;
+  width: 90%;
   max-width: 900px;
   margin: 40px auto;
   background-color: rgba(255, 255, 255, 0.85);
   border-radius: 16px;
-  padding: 30px;
+  padding: 15px;
   box-sizing: border-box;
 }
 
@@ -55,7 +55,7 @@ figure {
 }
 
 figure img {
-  width: 80%;
+  width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
